@@ -39,5 +39,5 @@ def remove_duplicate_images(folder_path):
     print(f"Total removed images: {removed_count}")
 
 if __name__ == "__main__":
-    folder = r"c:\Users\PAYA\OneDrive\Desktop\learn python"  # เปลี่ยน path ตามต้องการ
+    folder = r"c:\Users\ # เปลี่ยน path ตามต้องการ
     remove_duplicate_images(folder)
